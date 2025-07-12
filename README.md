@@ -4,6 +4,8 @@
 
 #AL-AJMI, Moudi Fahad; TYBJERG, Peter; RASMUSSEN, Claus P.; AZEEM, Jawad. EoS Modeling for Two Major Kuwaiti Oil Reservoirs. All Days, [S.L.], v. -, n. -, p. 1-14, 25 set. 2011. SPE. http://dx.doi.org/10.2118/141241-ms.
 
+#GROSS, Joachim; SADOWSKI, Gabriele. Perturbed-Chain SAFT: an equation of state based on a perturbation theory for chain molecules. Industrial & Engineering Chemistry Research, [S.L.], v. 40, n. 4, p. 1244-1260, 18 jan. 2001. American Chemical Society (ACS). http://dx.doi.org/10.1021/ie0003887.
+
 #LAGE, Paulo Laranjeira da Cunha. Lage_method. 2024. Disponível em: https://gitlab.com/paulolage/lage_method. Acesso em: 01 jul. 2025.
 
 #LAGE, Paulo L.C.. The quadrature method of moments for continuous thermodynamics. Computers & Chemical Engineering, [S.L.], v. 31, n. 7, p. 782-799, jul. 2007. Elsevier BV. http://dx.doi.org/10.1016/j.compchemeng.2006.08.005.
